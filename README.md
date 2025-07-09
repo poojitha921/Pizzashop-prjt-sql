@@ -65,11 +65,11 @@ After executing the SQL queries, the results were exported to *Excel* to create 
 
 | File                         | Description                                |
 |------------------------------|--------------------------------------------|
-| bens-pizza.sql             | SQL file with schema, inserts, and queries |
-| bens-pizza-dashboard.xlsx  | Excel dashboard with visualizations        |
+| pizzashop.sql             | SQL file with schema, inserts, and queries |
+| Pizzasalesproject.xlsx  | Excel dashboard with visualizations        |
 | README.md                  | Full project overview                      |
-| schema.qdb (optional)    | QuickDBD schema source (for ERD)           |
-| schema.png (optional)    | ER diagram image                           |
+| schema.qdb    | QuickDBD schema source (for ERD)           |
+| "Screenshot 2025-07-09 190224.png"    | ER diagram image   |
 
 ---
 
